@@ -1,3 +1,5 @@
 # best-repo-ever
-HELLO TESTING
-THIS IS NEW BRANCH 2
+=======
+TEST 123
+NEW BRANCH
+>>>>>>> origin/main
